@@ -1,0 +1,6 @@
+figure(1)
+ylabel('Amplitud')
+xlabel('Muestras')
+figure(2)
+ylabel('Amplitud')
+xlabel('Muestras')
